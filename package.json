@@ -26,6 +26,9 @@
       "react-app/jest"
     ]
   },
+  "dependencies": {
+  "shell-quote": ">=1.7.3"
+},
   "browserslist": {
     "production": [
       ">0.2%",
